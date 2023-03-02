@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nidhi Kowtal</h1>
 <h3 align="center">A passionate coder from India</h3>
 
-- 🌱 I’m currently learning **NLP and AWS.**
-
 - 📫 How to reach me **kowtalnidhi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
